@@ -1,0 +1,25 @@
+{
+  "name": "klezyx-token-contract",
+  "version": "1.0.0",
+  "description": "Klezyx Token Contract",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klezyx-token/klezyx-token-contract.git"
+  },
+  "keywords": [
+    "KLX"
+  ],
+  "author": "jethzg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klezyx-token/klezyx-token-contract/issues"
+  },
+  "homepage": "https://github.com/klezyx-token/klezyx-token-contract#readme"
+}
